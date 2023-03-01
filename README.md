@@ -1,2 +1,1 @@
-# CDN
-jsDeliver CDN
+# 没想好
